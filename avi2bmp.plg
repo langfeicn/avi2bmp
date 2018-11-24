@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: avi2bmp - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\abc\AppData\Local\Temp\RSP2DA1.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/avi2bmp.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Program Files\Microsoft Visual Studio\MyProjects\avi2bmp\avi2bmp.cpp"
+"D:\Program Files\Microsoft Visual Studio\MyProjects\avi2bmp\avi2bmpDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\abc\AppData\Local\Temp\RSP2DA1.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/avi2bmp.pdb" /debug /machine:I386 /out:"Debug/avi2bmp.exe" /pdbtype:sept  ".\Debug\avi2bmp.obj" ".\Debug\avi2bmpDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\avi2bmp.res" "
+<h3>Output Window</h3>
+Compiling...
+avi2bmpDlg.cpp
+Generating Code...
+Compiling...
+avi2bmp.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+avi2bmp.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
