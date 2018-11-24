@@ -29,6 +29,7 @@ CAvi2bmpApp::CAvi2bmpApp()
 {
 	// TODO: add construction code here,
 	// Place all significant initialization in InitInstance
+	// I add a comment here.
 }
 
 /////////////////////////////////////////////////////////////////////////////
