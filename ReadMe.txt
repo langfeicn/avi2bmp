@@ -3,11 +3,13 @@
 ========================================================================
 
 I change some thing
+now I change it in My Ubuntu.
+I thank this is ok
 AppWizard has created this avi2bmp application for you.  This application
 not only demonstrates the basics of using the Microsoft Foundation classes
 but is also a starting point for writing your application.
+/I also delete a line here
 
-This file contains a summary of what you will find in each of the files that
 make up your avi2bmp application.
 
 avi2bmp.dsp
